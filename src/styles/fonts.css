@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Nightside';
+    src: url('../assets/fonts/NightsideDemoRegular.ttf') format('truetype');
+}
+
+.font1 {
+    font-family: 'Nightside';
+}
+
+@font-face {
+    font-family: 'The Death Dog';
+    src: url('../assets/fonts/The\ Death\ Dog.ttf');
+}
+
+.font2 {
+    font-family: 'The Death Dog';
+}

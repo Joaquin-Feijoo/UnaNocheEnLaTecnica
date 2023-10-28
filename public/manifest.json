@@ -1,0 +1,25 @@
+{
+  "short_name": "Una noche en la tecnica",
+  "name": "Una noche en la tecnica",
+  "icons": [
+    {
+      "src": "https://img.itch.zone/aW1nLzEyNjIxNTczLmpwZw==/32x32%23/hovlpf.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://img.itch.zone/aW1nLzEyNjIxNTczLmpwZw==/32x32%23/hovlpf.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.itch.zone/aW1nLzEyNjIxNTczLmpwZw==/32x32%23/hovlpf.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

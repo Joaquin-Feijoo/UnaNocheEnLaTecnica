@@ -1,0 +1,82 @@
+.myCarousel {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    background: transparent;
+    color: white;
+    text-align: left;
+}
+
+.carousel .control-prev.control-arrow:before,
+.carousel .control-next.control-arrow:before {
+    content: '';
+    border: none;
+    background: none;
+}
+
+.carousel .control-prev.control-arrow:after {
+    content: '<';
+    font-size: 2em;
+    color: white;
+    transition: transform 0.1s;
+}
+
+.carousel .control-next.control-arrow:after {
+    content: '>';
+    font-size: 2em;
+    color: white;
+    transition: transform 0.1s;
+}
+
+.carousel .slide img {
+    max-height: 567px;
+    width: auto;
+}
+
+@keyframes moveRight {
+    0% {
+        transform: translateX(0);
+    }
+
+    50% {
+        transform: translateX(10px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+@keyframes moveLeft {
+    0% {
+        transform: translateX(0);
+    }
+
+    50% {
+        transform: translateX(-10px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.carousel .control-next.control-arrow:before {
+    animation: moveRight 1s infinite;
+}
+
+.carousel .control-prev.control-arrow:before {
+    animation: moveLeft 1s infinite;
+}
+
+.carousel .control-prev.control-arrow:hover:before,
+.carousel .control-next.control-arrow:hover:before {
+    transform: scale(1);
+}
+
+.carousel .control-prev.control-arrow:hover:before,
+.carousel .control-next.control-arrow:hover:before {
+    transform-origin: center center;
+}
