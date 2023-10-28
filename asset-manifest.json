@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/UnaNocheEnLaTecnica/static/css/main.1a4b1e9d.chunk.css",
+    "main.js": "/UnaNocheEnLaTecnica/static/js/main.e83b709b.chunk.js",
+    "main.js.map": "/UnaNocheEnLaTecnica/static/js/main.e83b709b.chunk.js.map",
+    "runtime~main.js": "/UnaNocheEnLaTecnica/static/js/runtime~main.25a00472.js",
+    "runtime~main.js.map": "/UnaNocheEnLaTecnica/static/js/runtime~main.25a00472.js.map",
+    "static/css/2.dcb2f796.chunk.css": "/UnaNocheEnLaTecnica/static/css/2.dcb2f796.chunk.css",
+    "static/js/2.f74a0c3e.chunk.js": "/UnaNocheEnLaTecnica/static/js/2.f74a0c3e.chunk.js",
+    "static/js/2.f74a0c3e.chunk.js.map": "/UnaNocheEnLaTecnica/static/js/2.f74a0c3e.chunk.js.map",
+    "static/js/3.71e6714e.chunk.js": "/UnaNocheEnLaTecnica/static/js/3.71e6714e.chunk.js",
+    "static/js/3.71e6714e.chunk.js.map": "/UnaNocheEnLaTecnica/static/js/3.71e6714e.chunk.js.map",
+    "index.html": "/UnaNocheEnLaTecnica/index.html",
+    "precache-manifest.4507813f8b3bb575e4ed3d864b966d72.js": "/UnaNocheEnLaTecnica/precache-manifest.4507813f8b3bb575e4ed3d864b966d72.js",
+    "service-worker.js": "/UnaNocheEnLaTecnica/service-worker.js",
+    "static/css/2.dcb2f796.chunk.css.map": "/UnaNocheEnLaTecnica/static/css/2.dcb2f796.chunk.css.map",
+    "static/css/main.1a4b1e9d.chunk.css.map": "/UnaNocheEnLaTecnica/static/css/main.1a4b1e9d.chunk.css.map",
+    "static/media/fonts.css": "/UnaNocheEnLaTecnica/static/media/TheDeathDog.3d76d676.ttf",
+    "static/media/image1.png": "/UnaNocheEnLaTecnica/static/media/image1.74f5864d.png",
+    "static/media/image2.png": "/UnaNocheEnLaTecnica/static/media/image2.3b061cf4.png",
+    "static/media/image3.png": "/UnaNocheEnLaTecnica/static/media/image3.89a7eb85.png",
+    "static/media/image4.png": "/UnaNocheEnLaTecnica/static/media/image4.fd0b8faf.png",
+    "static/media/image5.png": "/UnaNocheEnLaTecnica/static/media/image5.10790790.png"
+  }
+}
