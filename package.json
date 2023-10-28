@@ -1,5 +1,4 @@
 {
-  "homepage": "github.com/Joaquin-Feijoo/deploy-react-github-pages-with-ci",
   "name": "Una noche en la tecnica",
   "version": "1.0.2",
   "private": true,
@@ -30,8 +29,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://$UNANOCHEENLATECNICA@github.com/Joaquin-Feijoo/deploy-react-github-pages-with-ci"
   },
   "eslintConfig": {
     "extends": [
